@@ -1,0 +1,20 @@
+.filterInput {
+    margin: 0;
+    display: block;
+    outline: none;
+    border: none;
+    background: none;
+    width: 250px;
+    height: 46px;
+    border-bottom: solid 1px #5337FF;
+    font-weight: 500;
+    font-size: 16px;
+    color: black;
+}
+
+.filterInput::placeholder {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(112, 112, 112, 0.39);
+}

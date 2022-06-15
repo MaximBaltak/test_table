@@ -1,0 +1,15 @@
+
+
+# dependencies
+client/node_modules
+server/node_modules
+/.idea
+client/.idea
+server/.idea
+
+# testing
+client/coverage
+
+# production
+client/build
+server/dist

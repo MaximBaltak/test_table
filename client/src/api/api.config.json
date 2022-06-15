@@ -1,0 +1,4 @@
+{
+  "serverUrl": "http://localhost:4500",
+  "typeRequest":"application/json"
+}
